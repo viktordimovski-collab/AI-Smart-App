@@ -1,23 +1,19 @@
-🚀 AI-Powered Text Intelligence Tool
-Developed by Viktor Dimovski, a Software Engineer specializing in AI integration and automation.
+# 🚀 AI-Powered Text Intelligence Tool
 
-📋 Project Overview
-This tool leverages the Google Gemini Pro API to transform raw text into actionable intelligence. Designed with efficiency in mind, it automates the most time-consuming text-processing tasks using state-of-the-art LLM capabilities.
+Developed by **Viktor Dimovski**, a Software Engineer specializing in AI integration and automation.
 
-✨ Core Features
-Automated Summarization: Instantly condense long documents or articles into concise, high-impact key points.
+## 📋 Project Overview
+This tool leverages the **Google Gemini Pro API** to transform raw text into actionable intelligence. Designed with efficiency in mind, it automates the most time-consuming text-processing tasks using state-of-the-art LLM capabilities.
 
-Key Insight Extraction: Uses NLP logic to identify and extract the most important information, entities, and action items.
+## ✨ Core Features
+* **Automated Summarization:** Instantly condense long documents or articles into concise, high-impact key points.
+* **Key Insight Extraction:** Uses NLP logic to identify and extract the most important information, entities, and action items.
+* **Multilingual Support:** High-fidelity translation and analysis across multiple languages.
+* **Efficient Processing:** Optimized for handling large text datasets with minimal latency.
 
-Multilingual Support: High-fidelity translation and analysis across multiple languages.
+## 🛠 Tech Stack
+* **Language:** Python 3.13
+* **AI Integration:** Google Gemini API
+* **Development Tools:** Git, Environment Variable Security
 
-Efficient Processing: Optimized for handling large text datasets with minimal latency.
-
-🛠 Tech Stack
-Language: Python 3.13
-
-AI Integration: Google Gemini API
-
-Development Tools: Git, Environment Variable Security
-
-🚀 Getting Started
+## 🚀 Getting Started
